@@ -5,7 +5,7 @@ Swapify is an interactive platform that allows individuals to **offer, learn, an
 ---
 
 ## 🔗 Live Demo
-[Live Demo Link](https://swapify-app.netlify.app/)
+[Live Demo Link](liveLink)
 
 ---
 
@@ -57,8 +57,3 @@ Swapify is an interactive platform that allows individuals to **offer, learn, an
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/swapify.git
